@@ -1,4 +1,5 @@
 <?php 
+//WordPress Shortcode for getting clinical study data fetch;
 
 add_shortcode('external_data', 'fetch_clinical_trials');
 
